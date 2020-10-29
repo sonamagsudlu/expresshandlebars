@@ -1,0 +1,29 @@
+{
+  "name": "burger-app",
+  "version": "1.0.0",
+  "description": "Store your favorite burger recipes!",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moojigc/burger-app.git"
+  },
+  "keywords": [
+    "burger",
+    "recipe"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moojigc/burger-app/issues"
+  },
+  "homepage": "https://github.com/moojigc/burger-app#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.4",
+    "i18n": "^0.9.1",
+    "mysql2": "^2.1.0"
+  }
+}
